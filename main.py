@@ -58,7 +58,7 @@ def delete_job(job_id):
     st.rerun()
 
 # --- 3. UI LAYOUT ---
-st.set_page_config(page_title="Career Organizer", layout="wide", page_icon="😉")
+st.set_page_config(page_title="Career Organizer", layout="wide", page_icon="😎😎")
 st.title("JOB TRACKER")
 st.markdown("---")
 
